@@ -7,6 +7,7 @@ This documentation pertains to the project "Evolved Connect 4" developed during 
 - [Project Understanding and Approach](#project-understanding-and-approach)
 - [Program Structure](#program-structure)
 - [Code Explanation](#code-explanation)
+- [Instructions](#instructions)
 - [Author](#author)
 
 ## Project Understanding and Approach
@@ -33,6 +34,10 @@ Several checks are in place to detect scenarios where adding more chips would be
 In the main function, player10148, the turn of the player is checked to determine the player number for subsequent checks. The first move is decided based on the board's center or to the right of it. The CheckAdvancedMove function is called for the opponent and the player to determine the next move.
 
 In case of no valid moves as per the previous checks, the program decides to put a chip wherever feasible without going off the board.
+
+## Instructions
+
+- [struc-prog-2019-assignement](https://github.com/e-left/struc-prog-2019-assignement/tree/master)
 
 ## Author
 
