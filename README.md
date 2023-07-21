@@ -36,5 +36,5 @@ In case of no valid moves as per the previous checks, the program decides to put
 
 ## Author
 
-- Chrysostomos Koumidis
+- [Chrysostomos Koumides](https://chryskoum.github.io/ChrysK/)
 - AEM 10148
